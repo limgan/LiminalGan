@@ -12,3 +12,6 @@ total of 6 model snapshots are used for visualization: 2 from non mirrored inter
 
 link to models, since they are too large to host on git: https://drive.google.com/file/d/1rB0U6noraclqbOV3V8YssdZ0chmx32tU/view?usp=sharing
 
+to use the notebook, download the tarball to your google drive and mount it inside the notebook. During the unzip command (!tar) point it to the path in your google drive!
+
+https://colab.research.google.com/github/limgan/LiminalGan/blob/main/LimnalGan.ipynb
