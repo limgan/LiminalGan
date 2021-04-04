@@ -10,5 +10,5 @@ trained with ADA from: https://github.com/RoyWheels/stylegan2-ada, implemented f
 
 total of 6 model snapshots are used for visualization: 2 from non mirrored interiors,  2 from mirrored interiors, 2 from non mirrored exteriors
 
-link to models, since they are too large to host on git:
+link to models, since they are too large to host on git: https://drive.google.com/file/d/1rB0U6noraclqbOV3V8YssdZ0chmx32tU/view?usp=sharing
 
